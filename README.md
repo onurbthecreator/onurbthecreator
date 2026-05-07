@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Bruno Santos
-
+ 
 **`Desenvolvedor FullStack`**
 
 Me chamo Bruno Santos, tenho 17 anos e sou de Londrina. Estou no 3º ano do ensino médio no curso integrado com Automação Industrial. Sou apaixonado por tecnologia e programação, e meu objetivo é cursar Engenharia de Software. Compartilho minha jornada no Instagram através do perfil @obruunopsantos.
