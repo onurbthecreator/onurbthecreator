@@ -23,7 +23,7 @@ Me chamo Bruno Santos, tenho 17 anos e sou de Londrina. Estou no 3º ano do ensi
     </a>
 </p>
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
