@@ -30,9 +30,11 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,oracle,docker,kubernetes,linux,nginx,bash,git,github" alt="Nuvem e infra"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle Cloud" height="48" style="background:#fff;border-radius:12px;padding:6px;"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,bash,git,github" alt="Infra e ferramentas" height="48"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,flask,cpp,arduino" alt="Dev"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,flask,cpp,arduino" alt="Dev" height="48"/>
 </p>
 
 <br/>
