@@ -25,7 +25,7 @@
 ## 🚀 Projetos atuais
 
 - 🏆 **2º lugar no estadual de Cloud Computing** (WorldSkills 2026): hoje estudo AWS Academy Cloud Development, mirando a certificação Solutions Architect Associate.
-- ☁️ **Pivô de Irrigação IoT**: sistema em produção na Oracle Cloud — VM com HTTPS (nginx + Let's Encrypt), IAM (Instance Principal, sem chave em disco), banco gerenciado (Autonomous DB) e object storage com lifecycle, recebendo GPS/sensores/fotos de ESP32 em tempo real.
+- ☁️ **Pivô de Irrigação IoT**: sistema em produção na Oracle Cloud, com VM em HTTPS (nginx + Let's Encrypt), IAM (Instance Principal, sem chave em disco), banco gerenciado (Autonomous DB) e object storage com lifecycle, recebendo GPS/sensores/fotos de ESP32 em tempo real.
 - 🔍 **Leitor de Cor e Número (TCC)**: outro backend Flask na Oracle Cloud, com OpenCV e Tesseract OCR pra identificar cor e número de um objeto via ESP32-CAM.
 
 <br/>
@@ -41,7 +41,7 @@
   </a>
 </p>
 <p align="center">
-  <sub><a href="https://www.credly.com/badges/0135eaf7-a238-4214-9f41-40cc296e7506">AWS Academy Graduate — Cloud Foundations</a> · <a href="https://www.credly.com/badges/6ba34941-2df1-4d3e-a599-8931d79e671f/public_url">AWS Academy Graduate — Cloud Architecting</a></sub>
+  <sub><a href="https://www.credly.com/badges/0135eaf7-a238-4214-9f41-40cc296e7506">AWS Academy Graduate: Cloud Foundations</a> · <a href="https://www.credly.com/badges/6ba34941-2df1-4d3e-a599-8931d79e671f/public_url">AWS Academy Graduate: Cloud Architecting</a></sub>
 </p>
 
 <br/>
