@@ -44,3 +44,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbthecreator&theme=tokyonight&hide_border=true" alt="Streak do GitHub"/>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
