@@ -4,11 +4,14 @@
 <p align="center">
   Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
   <br/>
-  Meu foco é cloud: compito na trilha de Cloud Computing do WorldSkills com AWS, e também mexo com Oracle Cloud, backend e IoT.
+  Meu foco é cloud: fiz o WorldSkills na trilha de Cloud Computing com AWS, e hoje estudo cibersegurança. Também mexo com Oracle Cloud, backend e IoT.
   Meu objetivo é cursar Engenharia de Software.
 </p>
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/brunopesantos/">
+        <img alt="LinkedIn" title="Me conecte no LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <a href="https://www.instagram.com/obruunopsantos/">
         <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
@@ -21,7 +24,7 @@
 
 ## 🚀 Projetos atuais
 
-- 🏆 **WorldSkills**: competindo na trilha de Cloud Computing / Cybersecurity, com AWS.
+- 🏆 **WorldSkills**: fiz a trilha de Cloud Computing com AWS, e hoje estudo Cybersecurity.
 - ☁️ **Pivô de Irrigação IoT**: backend Flask hospedado na Oracle Cloud (VM, HTTPS, Autonomous DB, Object Storage), com ESP32 mandando GPS, sensores e fotos pro dashboard em tempo real.
 - 🔍 **Leitor de Cor e Número (TCC)**: outro backend Flask na Oracle Cloud, com OpenCV e Tesseract OCR pra identificar cor e número de um objeto via ESP32-CAM.
 
