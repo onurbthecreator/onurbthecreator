@@ -30,7 +30,9 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,oracle,docker,kubernetes,linux,nginx,bash,git,github;html,css,js,nodejs,python,flask,cpp,arduino" alt="Stack de tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=aws,oracle,docker,kubernetes,linux,nginx,bash,git,github" alt="Nuvem e infra"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,flask,cpp,arduino" alt="Dev"/>
 </p>
 
 <br/>
