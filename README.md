@@ -4,7 +4,7 @@
 <p align="center">
   Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
   <br/>
-  Meu foco é cloud: curso a trilha de Cloud Computing no WorldSkills com AWS, e também mexo com Oracle Cloud, backend e IoT.
+  Meu foco é cloud: compito na trilha de Cloud Computing do WorldSkills com AWS, e também mexo com Oracle Cloud, backend e IoT.
   Meu objetivo é cursar Engenharia de Software.
 </p>
 
