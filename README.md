@@ -34,14 +34,11 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/0135eaf7-a238-4214-9f41-40cc296e7506">
-    <img alt="AWS Academy Graduate - Cloud Foundations" src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="90"/>
+    <img alt="AWS Academy Graduate - Cloud Foundations" src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="130"/>
   </a>
   <a href="https://www.credly.com/badges/6ba34941-2df1-4d3e-a599-8931d79e671f/public_url">
-    <img alt="AWS Academy Graduate - Cloud Architecting" src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/linkedin_thumb_blob" width="90"/>
+    <img alt="AWS Academy Graduate - Cloud Architecting" src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/linkedin_thumb_blob" width="130"/>
   </a>
-</p>
-<p align="center">
-  <sub><a href="https://www.credly.com/badges/0135eaf7-a238-4214-9f41-40cc296e7506">AWS Academy Graduate: Cloud Foundations</a> · <a href="https://www.credly.com/badges/6ba34941-2df1-4d3e-a599-8931d79e671f/public_url">AWS Academy Graduate: Cloud Architecting</a></sub>
 </p>
 
 <br/>
