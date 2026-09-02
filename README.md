@@ -2,7 +2,7 @@
  
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno Santos, tenho 17 anos e sou de Londrina. Estou no 3º ano do ensino médio no curso integrado com Automação Industrial. Sou apaixonado por tecnologia e programação, e meu objetivo é cursar Engenharia de Software. Compartilho minha jornada no Instagram através do perfil @obruunopsantos.
+Me chamo Bruno Santos, tenho 18 anos e sou de Londrina. Estou no 3º ano do ensino médio no curso integrado com Automação Industrial. Sou apaixonado por tecnologia e programação, e meu objetivo é cursar Engenharia de Software. Atualmente desenvolvo um sistema de IoT para pivô de irrigação (ESP32 + Oracle Cloud) e um leitor de cor/número por visão computacional como TCC. Compartilho minha jornada no Instagram através do perfil @obruunopsantos.
 
 
 ---
@@ -103,6 +103,22 @@ Me chamo Bruno Santos, tenho 17 anos e sou de Londrina. Estou no 3º ano do ensi
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" 
+/>
+ <img 
+ align="left" 
+ alt="Flask" 
+ title="Flask"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+ <img 
+ align="left" 
+ alt="Oracle Cloud" 
+ title="Oracle Cloud"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <br/>
 <br/>
