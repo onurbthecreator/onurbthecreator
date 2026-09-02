@@ -1,10 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o Bruno Santos</h1>
-<h3 align="center">Desenvolvedor FullStack focado em IoT & Cloud</h3>
+<h3 align="center">Desenvolvedor FullStack, focado em Cloud</h3>
 
 <p align="center">
   Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
   <br/>
-  Apaixonado por tecnologia desde cedo, hoje construo projetos de nuvem e IoT de ponta a ponta — meu objetivo é cursar Engenharia de Software.
+  Curso a trilha de Cloud Computing no WorldSkills, mexo com Oracle Cloud, backend e também IoT.
+  Meu objetivo é cursar Engenharia de Software.
 </p>
 
 <p align="center">
@@ -20,9 +21,9 @@
 
 ## 🚀 Projetos atuais
 
-- 🌱 **Pivô de Irrigação IoT** — ESP32 (GPS + sensores) enviando telemetria e fotos em tempo real para um backend Flask na Oracle Cloud, com HTTPS, banco Autonomous DB e dashboard web ao vivo.
-- 🔍 **Leitor de Cor e Número (TCC)** — ESP32-CAM + backend Flask com OpenCV e Tesseract OCR, também rodando 100% na Oracle Cloud.
-- 🏆 **WorldSkills** — competindo na trilha de Cloud Computing / Cybersecurity.
+- 🏆 **WorldSkills**: competindo na trilha de Cloud Computing / Cybersecurity.
+- ☁️ **Pivô de Irrigação IoT**: backend Flask hospedado na Oracle Cloud (VM, HTTPS, Autonomous DB, Object Storage), com ESP32 mandando GPS, sensores e fotos pro dashboard em tempo real.
+- 🔍 **Leitor de Cor e Número (TCC)**: outro backend Flask na Oracle Cloud, com OpenCV e Tesseract OCR pra identificar cor e número de um objeto via ESP32-CAM.
 
 <br/>
 
