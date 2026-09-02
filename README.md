@@ -1,124 +1,41 @@
-# 👩🏻‍💻 Bruno Santos
- 
-**`Desenvolvedor FullStack`**
+<h1 align="center">👋 Olá, eu sou o Bruno Santos</h1>
+<h3 align="center">Desenvolvedor FullStack focado em IoT & Cloud</h3>
 
-Me chamo Bruno Santos, tenho 18 anos e sou de Londrina. Estou no 3º ano do ensino médio no curso integrado com Automação Industrial. Sou apaixonado por tecnologia e programação, e meu objetivo é cursar Engenharia de Software. Atualmente desenvolvo um sistema de IoT para pivô de irrigação (ESP32 + Oracle Cloud) e um leitor de cor/número por visão computacional como TCC. Compartilho minha jornada no Instagram através do perfil @obruunopsantos.
+<p align="center">
+  Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
+  <br/>
+  Apaixonado por tecnologia desde cedo, hoje construo projetos de nuvem e IoT de ponta a ponta — meu objetivo é cursar Engenharia de Software.
+</p>
 
-
----
-<p align="left">
+<p align="center">
     <a href="https://www.instagram.com/obruunopsantos/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-        />
+        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
-    <a href="https://github.com/BrunoSantos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BrunoSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="https://github.com/onurbthecreator?tab=followers">
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/onurbthecreator?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
 </p>
 
-###  Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
- align="left" 
- alt="C++" 
- title="C++"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
- <img 
- align="left" 
- alt="Arduino" 
- title="Arduino IDE"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
- <img 
- align="left" 
- alt="ESP32" 
- title="ESP32"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" 
-/>
- <img 
- align="left" 
- alt="Flask" 
- title="Flask"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
- <img 
- align="left" 
- alt="Oracle Cloud" 
- title="Oracle Cloud"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
 <br/>
+
+## 🚀 Projetos atuais
+
+- 🌱 **Pivô de Irrigação IoT** — ESP32 (GPS + sensores) enviando telemetria e fotos em tempo real para um backend Flask na Oracle Cloud, com HTTPS, banco Autonomous DB e dashboard web ao vivo.
+- 🔍 **Leitor de Cor e Número (TCC)** — ESP32-CAM + backend Flask com OpenCV e Tesseract OCR, também rodando 100% na Oracle Cloud.
+- 🏆 **WorldSkills** — competindo na trilha de Cloud Computing / Cybersecurity.
+
 <br/>
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,arduino,flask,docker,kubernetes,oracle,git" alt="Stack de tecnologias"/>
+</p>
+
+<br/>
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbthecreator&theme=tokyonight&hide_border=true" alt="Streak do GitHub"/>
+</p>
