@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o Bruno Santos</h1>
-<h3 align="center">Desenvolvedor FullStack, focado em Cloud</h3>
+<h3 align="center">Cloud Developer</h3>
 
 <p align="center">
   Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
   <br/>
-  Meu foco é cloud: fiz o WorldSkills na trilha de Cloud Computing com AWS, e hoje estudo cibersegurança. Também mexo com Oracle Cloud, backend e IoT.
-  Meu objetivo é cursar Engenharia de Software.
+  2º lugar no estadual de Cloud Computing (WorldSkills 2026), hoje estudo AWS Academy Cloud Development e mantenho um sistema em produção na Oracle Cloud (HTTPS, IAM, banco gerenciado, object storage).
+  Meu objetivo é conseguir uma vaga na área de Cloud.
 </p>
 
 <p align="center">
@@ -24,9 +24,25 @@
 
 ## 🚀 Projetos atuais
 
-- 🏆 **WorldSkills**: fiz a trilha de Cloud Computing com AWS, e hoje estudo Cybersecurity.
-- ☁️ **Pivô de Irrigação IoT**: backend Flask hospedado na Oracle Cloud (VM, HTTPS, Autonomous DB, Object Storage), com ESP32 mandando GPS, sensores e fotos pro dashboard em tempo real.
+- 🏆 **2º lugar no estadual de Cloud Computing** (WorldSkills 2026): hoje estudo AWS Academy Cloud Development, mirando a certificação Solutions Architect Associate.
+- ☁️ **Pivô de Irrigação IoT**: sistema em produção na Oracle Cloud — VM com HTTPS (nginx + Let's Encrypt), IAM (Instance Principal, sem chave em disco), banco gerenciado (Autonomous DB) e object storage com lifecycle, recebendo GPS/sensores/fotos de ESP32 em tempo real.
 - 🔍 **Leitor de Cor e Número (TCC)**: outro backend Flask na Oracle Cloud, com OpenCV e Tesseract OCR pra identificar cor e número de um objeto via ESP32-CAM.
+
+<br/>
+
+## 🎓 Certificações
+
+<p align="center">
+  <a href="https://www.credly.com/badges/0135eaf7-a238-4214-9f41-40cc296e7506">
+    <img alt="AWS Academy Graduate - Cloud Foundations" src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="90"/>
+  </a>
+  <a href="https://www.credly.com/badges/6ba34941-2df1-4d3e-a599-8931d79e671f/public_url">
+    <img alt="AWS Academy Graduate - Cloud Architecting" src="https://images.credly.com/images/fcafd0c9-42da-4703-a191-0c397203dc1b/linkedin_thumb_blob" width="90"/>
+  </a>
+</p>
+<p align="center">
+  <sub><a href="https://www.credly.com/badges/0135eaf7-a238-4214-9f41-40cc296e7506">AWS Academy Graduate — Cloud Foundations</a> · <a href="https://www.credly.com/badges/6ba34941-2df1-4d3e-a599-8931d79e671f/public_url">AWS Academy Graduate — Cloud Architecting</a></sub>
+</p>
 
 <br/>
 
