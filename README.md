@@ -4,7 +4,7 @@
 <p align="center">
   Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
   <br/>
-  Curso a trilha de Cloud Computing no WorldSkills, meu foco principal é AWS, e também mexo com Oracle Cloud, backend e IoT.
+  Meu foco é cloud: curso a trilha de Cloud Computing no WorldSkills com AWS, e também mexo com Oracle Cloud, backend e IoT.
   Meu objetivo é cursar Engenharia de Software.
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🚀 Projetos atuais
 
-- 🏆 **WorldSkills**: competindo na trilha de Cloud Computing / Cybersecurity, com foco principal em AWS.
+- 🏆 **WorldSkills**: competindo na trilha de Cloud Computing / Cybersecurity, com AWS.
 - ☁️ **Pivô de Irrigação IoT**: backend Flask hospedado na Oracle Cloud (VM, HTTPS, Autonomous DB, Object Storage), com ESP32 mandando GPS, sensores e fotos pro dashboard em tempo real.
 - 🔍 **Leitor de Cor e Número (TCC)**: outro backend Flask na Oracle Cloud, com OpenCV e Tesseract OCR pra identificar cor e número de um objeto via ESP32-CAM.
 
