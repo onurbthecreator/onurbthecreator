@@ -4,8 +4,8 @@
 <p align="center">
   Tenho 18 anos, sou de Londrina e estou no 3º ano do ensino médio integrado com Automação Industrial.
   <br/>
-  2º lugar no estadual de Cloud Computing (WorldSkills 2026), hoje estudo AWS Academy Cloud Development e mantenho um sistema em produção na Oracle Cloud (HTTPS, IAM, banco gerenciado, object storage).
-  Meu objetivo é conseguir uma vaga na área de Cloud.
+  2º lugar no estadual de Cloud Computing (WorldSkills 2026), hoje estudo AWS Academy Cloud Development (também estudo cybersecurity) e mantenho um sistema em produção na Oracle Cloud (HTTPS, IAM, banco gerenciado, object storage).
+  Meu objetivo é conseguir uma vaga na área de Cloud e cursar Engenharia de Software.
 </p>
 
 <p align="center">
