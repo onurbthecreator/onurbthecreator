@@ -42,11 +42,15 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbthecreator&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Streak do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurbthecreator&theme=default&hide_border=true#gh-light-mode-only" alt="Streak do GitHub"/>
+
+![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=onurbthecreator&theme=tokyonight&hide_border=true#gh-dark-mode-only)
+![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=onurbthecreator&theme=default&hide_border=true#gh-light-mode-only)
+
 </p>
 
 <p align="center">
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+![Cobrinha comendo minhas contribuições](https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Cobrinha comendo minhas contribuições](https://raw.githubusercontent.com/onurbthecreator/onurbthecreator/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </p>
